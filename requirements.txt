@@ -21,3 +21,4 @@ pywin32-ctypes==0.2.0
 scipy==1.8.0
 seaborn==0.11.2
 six==1.16.0
+xlwings==0.27.4
